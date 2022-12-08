@@ -1,5 +1,5 @@
 # The Rollup Library
-Have been reading a lot about rollups recently and figured it might be useful to start an open library for the best so people don't need to spend as much time looking for good ones.
+Have been reading a lot about rollups and modular blockchains recently and figured it might be useful to start an open library for the best so people don't need to spend as much time looking for good ones.
 
 ## Overviews
 [An Incomplete Guide to Rollups (Vitalik Buterin, January 2021)](https://vitalik.ca/general/2021/01/05/rollup.html)
