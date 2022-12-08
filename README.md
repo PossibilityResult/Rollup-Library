@@ -16,7 +16,12 @@ Have been reading a lot about rollups recently and figured it might be useful to
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
 ## Maximal Extractable Value (MEV)
-[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
+[Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Alex Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
+
+## Bridging
+[SoK: Communication Across Distributed Ledgers (Zamyatin et al., 2019)](https://eprint.iacr.org/2019/1128.pdf)**
+
+[Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (Mustafa Al-Bassam, October 2021)](https://blog.celestia.org/clusters/)
 
 
 
