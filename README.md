@@ -23,4 +23,4 @@ Have been reading a lot about rollups recently and figured it might be useful to
 ## Extras
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
 
-/*/* signals favorite resource
+** signals favorite resource
