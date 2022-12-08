@@ -7,13 +7,24 @@ Have been reading a lot about rollups recently and figured it might be useful to
 [The Complete Guide to Rollups (Jon Charbonneau, August 2022)](https://members.delphidigital.io/reports/the-complete-guide-to-rollups/)**
 
 
-## Zero Knowledge Rollups
+## Validity Mechanism
+
+Resources on various mechanisms that can be used to determine whether a rollup block was valid.
+
+### Zero Knowledge Rollups
 [EthHub: ZK-Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/)
 
 [Understanding PLONK (Vitalik Buterin, September 2019)](https://vitalik.ca/general/2019/09/22/plonk.html)
 
-## Optimistic Rollups 
+### Optimistic Rollups 
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
+
+## Architecture
+
+Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.
+
+### Sovereign Rollups
+[Rollups as Sovereign Chains (Mustafa Al-Bassam, Ertem Nusret Tas, Nima Vaziri, July 2022)](https://blog.celestia.org/sovereign-rollup-chains/)**
 
 ## Maximal Extractable Value (MEV)
 [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Alex Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
