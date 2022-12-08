@@ -16,4 +16,7 @@ Have been reading a lot about rollups recently and figured it might be useful to
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
 
+
+
+### Shoutouts
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
