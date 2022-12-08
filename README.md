@@ -23,7 +23,7 @@ Have been reading a lot about rollups recently and figured it might be useful to
 
 [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (Mustafa Al-Bassam, October 2021)](https://blog.celestia.org/clusters/)
 
-[Quantum Gravity Bridge: Secure Off-Chain Data Availability for Ethereum L2s with Celestia (Aditi, John Adler, Mustafa Al-Bassam)](https://blog.celestia.org/celestiums/)
+[Quantum Gravity Bridge: Secure Off-Chain Data Availability for Ethereum L2s with Celestia (Aditi, John Adler, Mustafa Al-Bassam, Febuary 2022)](https://blog.celestia.org/celestiums/)
 
 ## Extras
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
