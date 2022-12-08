@@ -19,6 +19,10 @@ Have been reading a lot about rollups and modular blockchains recently and figur
 #### Optimistic Rollups 
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
+#### Pessimistic Rollups
+
+TODO
+
 ## Modular Components
 
 #### Data Availability
