@@ -23,7 +23,7 @@ Resources on various mechanisms that can be used to determine whether a rollup b
 
 #### Data Availability
 
-TODO
+[LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts (Mustafa Al-Bassam, May 2019)](https://arxiv.org/abs/1905.09274)
 
 #### Consensus
 
