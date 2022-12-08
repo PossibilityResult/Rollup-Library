@@ -3,11 +3,13 @@ Have been reading a lot about rollups recently and figured it might be useful to
 
 ## Overviews
 [An Incomplete Guide to Rollups (Vitalik Buterin, January 2021)](https://vitalik.ca/general/2021/01/05/rollup.html)
+
 [The Complete Guide to Rollups (Jon Charbonneau, August 2022)](https://members.delphidigital.io/reports/the-complete-guide-to-rollups/)
 
 
 ## Zero Knowledge Rollups
 [EthHub: ZK-Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/)
+
 [Understanding PLONK (Vitalik Buterin, September 2019)](https://vitalik.ca/general/2019/09/22/plonk.html)
 
 ## Optimistic Rollups 
