@@ -11,49 +11,48 @@ Have been reading a lot about rollups recently and figured it might be useful to
 
 Resources on various mechanisms that can be used to determine whether a rollup block was valid.
 
-### Zero Knowledge Rollups
+#### Zero Knowledge Rollups
 [EthHub: ZK-Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/)
 
 [Understanding PLONK (Vitalik Buterin, September 2019)](https://vitalik.ca/general/2019/09/22/plonk.html)
 
-### Optimistic Rollups 
+#### Optimistic Rollups 
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
 ## Modular Components
 
-### Data Availability
+#### Data Availability
 
 TODO
 
-### Consensus
+#### Consensus
 
 TODO
 
-### Settlement
+#### Settlement
 
 TODO
 
-### Execution
+#### Execution
 
 TODO
 
-## Modular Stacks
-![1_Modular-Stacks](https://user-images.githubusercontent.com/56851203/206368878-113b9f5a-ecdf-4bad-8f8a-98b3bb29c00f.jpg)
+### Modular Stacks
 
 Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.
 
-### Smart Contract Rollups
+#### Smart Contract Rollups
 
 TODO
 
-### Sovereign Rollups
+#### Sovereign Rollups
 [Rollups as Sovereign Chains (Mustafa Al-Bassam, Ertem Nusret Tas, Nima Vaziri, July 2022)](https://blog.celestia.org/sovereign-rollup-chains/)**
 
-### Settlement Rollups
+#### Settlement Rollups
 
 TODO
 
-### Enshrined Rollups
+#### Enshrined Rollups
 
 TODO
 
