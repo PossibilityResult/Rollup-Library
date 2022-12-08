@@ -9,7 +9,7 @@ Have been reading a lot about rollups recently and figured it might be useful to
 
 ## Validity Mechanism
 
-Resources on various mechanisms that can be used to determine whether a rollup block was valid.
+*Resources on various mechanisms that can be used to determine whether a rollup block was valid.*
 
 #### Zero Knowledge Rollups
 [EthHub: ZK-Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-rollups/)
@@ -39,7 +39,7 @@ TODO
 
 ### Modular Stacks
 
-Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.
+*Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.*
 
 #### Smart Contract Rollups
 
