@@ -19,12 +19,43 @@ Resources on various mechanisms that can be used to determine whether a rollup b
 ### Optimistic Rollups 
 [EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
-## Architecture
+## Modular Components
+
+### Data Availability
+
+TODO
+
+### Consensus
+
+TODO
+
+### Settlement
+
+TODO
+
+### Execution
+
+TODO
+
+## Modular Stacks
+![1_Modular-Stacks](https://user-images.githubusercontent.com/56851203/206368878-113b9f5a-ecdf-4bad-8f8a-98b3bb29c00f.jpg)
 
 Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.
 
+### Smart Contract Rollups
+
+TODO
+
 ### Sovereign Rollups
 [Rollups as Sovereign Chains (Mustafa Al-Bassam, Ertem Nusret Tas, Nima Vaziri, July 2022)](https://blog.celestia.org/sovereign-rollup-chains/)**
+
+### Settlement Rollups
+
+TODO
+
+### Enshrined Rollups
+
+TODO
 
 ## Maximal Extractable Value (MEV)
 [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Alex Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
