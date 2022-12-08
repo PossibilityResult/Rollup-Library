@@ -23,7 +23,7 @@ Resources on various mechanisms that can be used to determine whether a rollup b
 
 Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.
 
-#### Sovereign Rollups
+### Sovereign Rollups
 [Rollups as Sovereign Chains (Mustafa Al-Bassam, Ertem Nusret Tas, Nima Vaziri, July 2022)](https://blog.celestia.org/sovereign-rollup-chains/)**
 
 ## Maximal Extractable Value (MEV)
