@@ -60,11 +60,18 @@ TODO
 [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Alex Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
 
 ## Bridging
-[SoK: Communication Across Distributed Ledgers (Zamyatin et al., 2019)](https://eprint.iacr.org/2019/1128.pdf)**
+
+#### Rollup Bridging
 
 [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape (Mustafa Al-Bassam, October 2021)](https://blog.celestia.org/clusters/)
 
 [Quantum Gravity Bridge: Secure Off-Chain Data Availability for Ethereum L2s with Celestia (Aditi, John Adler, Mustafa Al-Bassam, Febuary 2022)](https://blog.celestia.org/celestiums/)
+
+#### General Cross Domain Bridging
+
+[SoK: Communication Across Distributed Ledgers (Zamyatin et al., 2019)](https://eprint.iacr.org/2019/1128.pdf)**
+
+[The Interblockchain Communication Protocol: An Overview (Christopher Goes, June 2020)](https://arxiv.org/pdf/2006.15918.pdf)
 
 ## Extras
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
