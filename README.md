@@ -27,7 +27,7 @@ Resources on various mechanisms that can be used to determine whether a rollup b
 
 #### Consensus
 
-TODO
+[Tendermint: Consensus without Mining (Jae Kwon, 2014)]()
 
 #### Settlement
 
