@@ -75,6 +75,8 @@ TODO
 
 [SoK: Communication Across Distributed Ledgers (Zamyatin et al., 2019)](https://eprint.iacr.org/2019/1128.pdf)**
 
+[The tradeoffs of cross-chain communication (Lakshman Sankar, September 2021)](https://www.lakshmansankar.com/#/tradeoffs-ccc)
+
 [The Interblockchain Communication Protocol: An Overview (Christopher Goes, June 2020)](https://arxiv.org/pdf/2006.15918.pdf)
 
 ## Extras
