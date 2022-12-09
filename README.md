@@ -79,6 +79,10 @@ TODO
 
 [The Interblockchain Communication Protocol: An Overview (Christopher Goes, June 2020)](https://arxiv.org/pdf/2006.15918.pdf)
 
+## Scalability
+
+[The Limits to Blockchain Scalability (Vitalik Buterin, May 2021)](https://vitalik.ca/general/2021/05/23/scaling.html)
+
 ## Extras
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
 
