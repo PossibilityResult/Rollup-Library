@@ -33,11 +33,11 @@ TODO
 
 #### Consensus
 
-[Tendermint: Consensus without Mining (Jae Kwon, 2014)]()
+[Tendermint: Consensus without Mining (Jae Kwon, 2014)](https://tendermint.com/static/docs/tendermint.pdf)
 
 #### Settlement
 
-TODO
+[Celestia Docs: Modular settlement layers](https://celestia.org/learn/modular-settlement-layers/)
 
 #### Execution
 
