@@ -29,6 +29,8 @@ TODO
 
 [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts (Mustafa Al-Bassam, May 2019)](https://arxiv.org/abs/1905.09274)
 
+[The Ethereum Off-Chain Data Availability Landscape (Aditi and John Adler, February 2022)](https://blog.celestia.org/ethereum-off-chain-data-availability-landscape/)
+
 #### Consensus
 
 [Tendermint: Consensus without Mining (Jae Kwon, 2014)]()
