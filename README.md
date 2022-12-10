@@ -66,6 +66,10 @@ TODO
 
 TODO
 
+#### Validiums
+
+TODO
+
 ## Maximal Extractable Value (MEV)
 [Unity is Strength: A Formalization of Cross-Domain Maximal Extractable Value (Alex Obadia et al., December 2021)](https://arxiv.org/pdf/2112.01472.pdf)**
 
