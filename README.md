@@ -33,6 +33,8 @@ TODO
 
 [Volition and the Emerging Data Availability spectrum (StarkWare, June 2020)](https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb)
 
+[Data Availability (Starkware, June 2020)](https://medium.com/starkware/data-availability-e5564c416424)
+
 #### Consensus
 
 [Tendermint: Consensus without Mining (Jae Kwon, 2014)](https://tendermint.com/static/docs/tendermint.pdf)
