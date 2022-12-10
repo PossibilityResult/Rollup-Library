@@ -31,6 +31,8 @@ TODO
 
 [The Ethereum Off-Chain Data Availability Landscape (Aditi and John Adler, February 2022)](https://blog.celestia.org/ethereum-off-chain-data-availability-landscape/)
 
+[Volition and the Emerging Data Availability spectrum (StarkWare, June 2020)](https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb)
+
 #### Consensus
 
 [Tendermint: Consensus without Mining (Jae Kwon, 2014)](https://tendermint.com/static/docs/tendermint.pdf)
