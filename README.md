@@ -95,6 +95,10 @@ TODO
 
 [The Limits to Blockchain Scalability (Vitalik Buterin, May 2021)](https://vitalik.ca/general/2021/05/23/scaling.html)
 
+## Trust
+
+[Trust Models (Vitalik Buterin, August 2020)](https://vitalik.ca/general/2020/08/20/trust.html)
+
 ## Extras
 *Inspired by [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) by [0xperp](https://twitter.com/0xperp)*
 
