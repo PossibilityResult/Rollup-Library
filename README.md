@@ -17,7 +17,7 @@ Have been reading a lot about rollups and modular blockchains recently and figur
 [Understanding PLONK (Vitalik Buterin, September 2019)](https://vitalik.ca/general/2019/09/22/plonk.html)
 
 #### Optimistic Rollups 
-[EthHub: Optimistic Rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
+[EthHub: Optimistic Rollups (Georgios Konstantopoulos, January 2021)](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/)
 
 [(Almost) Everything you need to know about Optimistic Rollup](https://research.paradigm.xyz/rollups)
 
