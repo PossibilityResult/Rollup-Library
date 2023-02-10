@@ -21,6 +21,8 @@ Have been reading a lot about rollups and modular blockchains recently and figur
 
 [(Almost) Everything you need to know about Optimistic Rollup (Georgios Konstantopoulos, January 2021)](https://research.paradigm.xyz/rollups)
 
+[How does Optimism's Rollup really work? (Georgios Konstantopoulos, January 2021)](https://research.paradigm.xyz/optimism)
+
 #### Pessimistic Rollups
 
 TODO
