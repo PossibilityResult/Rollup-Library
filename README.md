@@ -39,6 +39,8 @@ TODO
 
 [Data Availability (Starkware, June 2020)](https://medium.com/starkware/data-availability-e5564c416424)
 
+[Celestia Forum](https://forum.celestia.org/)
+
 #### Consensus
 
 [Tendermint: Consensus without Mining (Jae Kwon, 2014)](https://tendermint.com/static/docs/tendermint.pdf)
