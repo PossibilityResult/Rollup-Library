@@ -53,6 +53,10 @@ TODO
 
 TODO
 
+#### Sequencing
+
+[Espresso HotShot: Consensus Designed for Rollups (November 2022)](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups)
+
 ### Modular Stacks
 
 *Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.*
