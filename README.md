@@ -57,6 +57,8 @@ TODO
 
 [Espresso HotShot: Consensus Designed for Rollups (November 2022)](https://www.espressosys.com/blog/espresso-hotshot-consensus-designed-for-rollups)
 
+[Metro: a rollup architecture for shared sequencers (Evan Forbes, February 2023)](https://www.youtube.com/watch?v=FHxPNkudhwU)
+
 ### Modular Stacks
 
 *Resources on different rollup structures i.e., where settlement, execution and consensus happen and where data availability is guaranteed.*
